@@ -14,5 +14,9 @@
 - Adding complexity through model parameters
 - How to tune models to improve fit
 - How to determine which model performs best
+- How to generate an evenly spaced array of input features x...
+- How to calculate sin(x) with NumPy functions...
+- How to randomly generate a corresponding array of noise values ϵ...
+
 
 
