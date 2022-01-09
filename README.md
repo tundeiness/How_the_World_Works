@@ -27,4 +27,12 @@
 - How to randomly generate a corresponding array of noise values ϵ...
 
 
+## Exercise Two: Building Simple Mean Models and Linear Regression Models
+- Mean Model
+- visually evaluate how the mean model "fits" the training data using graphs
+  1. overlay the mean model predictions with the original dataset using plt.plot() for line plot and plt.scatter() to plot the training data. 
+- evaluate mean model visually
+- implement linear regression model using scikit learn module
+- evaluate linear regression model vs training data
 
+### Introduction to Model Parameters 
