@@ -2,6 +2,7 @@
 ## Exercise One: Fake it Til You Make it
 - Import required libraries like Numpy, Pandas, Matplotlib, Seaborn and pyplot
 - Explored the libraries
+-Generating placeholder data using np.linspace
 - Creating random samples with Numpy and creating sample for sine wave and Tan wave(sine and tan wave       simulation)
 - Simulating Noise to make data realistic
 - Importing data using pandas read_csv
