@@ -36,3 +36,11 @@
 - evaluate linear regression model vs training data
 
 ### Introduction to Model Parameters 
+
+                #### Model     |     #### Model Parameter
+
+     Mean Model                |   average value of y
+     Linear Regression Model   |   intercept and coefficient
+
+
+- how model parameter defines individual models
