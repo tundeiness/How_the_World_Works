@@ -19,7 +19,7 @@
 
 ### Introduction to Model Parameters 
 
-                #### Model     |     #### Model Parameter
+                     Model     |     Model Parameter
 
      Mean Model                |   average value of y
      Linear Regression Model   |   intercept and coefficient
@@ -29,3 +29,9 @@
 - make prediction manually using intercept and co-efficient
 - assign new values to intercept and co-efficient
  
+
+## Polynomial Regression and Model Parameters
+
+- implement second order polynomial Linear Regression
+- implement Helper Functions
+- implement x order polynomial Linear Regression
