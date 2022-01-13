@@ -35,8 +35,17 @@
 - implement second order polynomial Linear Regression
 - implement Helper Functions
 - implement x order polynomial Linear Regression
+- implement model with 2 non-sequential polynomial terms.
 
 ### Model complexity
-- This refers to :
-   (1) Number of model parameters 
-   (2) effectiveness in expressing relationship within the dataset
+- In the context of Linear and Polynomial regression, this refers to :
+   (1) Number of model parameters ( i.e  𝛽1 𝛽2 or 𝛽3 )
+   (2) effectiveness in expressing relationship within the dataset(Model parameter effectiveness)
+- where there is a model with 2 non-sequential polynomial terms: Like fitting and plotting a model with  𝑥,𝑥3,and 𝑥5 as input features. These are non sequential as observed.
+
+## Exercise 3.1: 
+
+## Exercise 3.2:
+
+## Exercise 3.3: 
+
