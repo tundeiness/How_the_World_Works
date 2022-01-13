@@ -35,3 +35,8 @@
 - implement second order polynomial Linear Regression
 - implement Helper Functions
 - implement x order polynomial Linear Regression
+
+### Model complexity
+- This refers to :
+   (1) Number of model parameters 
+   (2) effectiveness in expressing relationship within the dataset
