@@ -48,4 +48,6 @@
 ## Exercise 3.2:
 
 ## Exercise 3.3: 
+- Normalising data and re-plotting
+## Exercise 3.4: 
 
