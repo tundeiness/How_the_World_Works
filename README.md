@@ -49,5 +49,6 @@
 
 ## Exercise 3.3: 
 - Normalising data and re-plotting
+- create a normalising helper function
 ## Exercise 3.4: 
 
