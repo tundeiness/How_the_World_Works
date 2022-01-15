@@ -49,7 +49,7 @@ I was introduced to concepts like:
 
         Mean Model                  |   average value of y
         Linear Regression Model     |   intercept and coefficient
-        Polynomial Regression Model |  intercept and co-efficient
+        Polynomial Regression Model |   intercept and co-efficient
 
 
 - how model parameter defines individual models
