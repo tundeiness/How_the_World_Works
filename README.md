@@ -14,15 +14,42 @@
 - visually evaluate how the mean model "fits" the training data using graphs
   1. overlay the mean model predictions with the original dataset using plt.plot() for line plot and plt.scatter() to plot the training data. 
 - evaluate mean model visually
-- implement linear regression model using scikit learn module
+- implement linear regression model using sci-kit learn module
 - evaluate linear regression model vs training data
 
+
+# How the world works Cornerstone Project
+This project is an Exercise in the [Elite Datascience bootcamp](https://pro.elitedatascience.com)
+It delves deep into how to implement the most simple Mean model to the complex models that can be used in Machine learning.
+It also explains concepts like normalization, "toy problems", overfitting, underfitting, evaluating models visually, helper functions, re-engineering input features, and model complexity through hands on exercises. 
+
+## Project Intro/Objective
+The purpose of this project is to give students a hands on approach to Machine Learning and Data science.
+It delves deep into how to implement the most simple Mean model to the complex models that can be used in Machine learning.
+I was introduced to concepts like:
+    - normalization, 
+    - "toy problems", 
+    - overfitting, 
+    - underfitting, 
+    - evaluating models visually, 
+    - using helper functions, 
+    - re-engineering input features, and 
+    - model complexity   (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
+
+### Technologies
+
+* Python
+* Pandas, jupyter
+
+## Project Description
 ### Introduction to Model Parameters 
 
-                     Model     |     Model Parameter
+                          Model     |     Model Parameter
 
-     Mean Model                |   average value of y
-     Linear Regression Model   |   intercept and coefficient
+        Mean Model                  |   average value of y
+        Linear Regression Model     |   intercept and coefficient
+        Polynomial Regression Model |  intercept and co-efficient
 
 
 - how model parameter defines individual models
@@ -31,24 +58,18 @@
  
 
 ## Polynomial Regression and Model Parameters
-
-- implement second order polynomial Linear Regression
-- implement Helper Functions
-- implement x order polynomial Linear Regression
-- implement model with 2 non-sequential polynomial terms.
-
-### Model complexity
-- In the context of Linear and Polynomial regression, this refers to :
+###  Exercise 3.2: Model complexity
+- Factors that influence  Polynomial regression model complexity are :
    (1) Number of model parameters ( i.e  𝛽1 𝛽2 or 𝛽3 )
    (2) effectiveness in expressing relationship within the dataset(Model parameter effectiveness)
 - where there is a model with 2 non-sequential polynomial terms: Like fitting and plotting a model with  𝑥,𝑥3,and 𝑥5 as input features. These are non sequential as observed.
+- The more the parameters supplied, the better the ability of the model to express underlying relationships.
 
-## Exercise 3.1: 
-
-## Exercise 3.2:
-
-## Exercise 3.3: 
-- Normalising data and re-plotting
-- create a normalising helper function
+## Exercise 3.3: Normalization
+- Normalizing data and re-fitting model when features are not equally scaled.
+- create a normalizing helper function
 ## Exercise 3.4: 
+- plotting polynomial regression model with a tangent underlying wave. 
 
+## Contact
+* Feel free to contact me  with any questions!
