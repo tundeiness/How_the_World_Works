@@ -71,5 +71,21 @@ I was introduced to concepts like:
 ## Exercise 3.4: 
 - plotting polynomial regression model with a tangent underlying wave. 
 
+## Exercise 4.1:
+- sine wave plot using Decision trees
+- Decision tree structure investigation
+
+## Exercise 4.2:
+- Decision tree decision paths
+
+
+## Exercise 4.3:
+- input dimensions for new samples/observations
+- reshaping one observation to a 2D Numpy array format for use with scikit learn
+- inferring `.reshape()` to return a  'n x 1' array.
+
+## Exercise 4.4:
+- plotting and fitting decision trees with noisy tangent dataset
+
 ## Contact
 * Feel free to contact me  with any questions!
